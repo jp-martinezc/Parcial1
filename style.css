@@ -1,0 +1,500 @@
+
+.header{
+
+    position: absolute;
+    width: 1440px;
+    height: 80px;
+    left: 0px;
+    top: 2px;
+    
+    background: linear-gradient(270deg, #745ECE 0%, rgba(105, 72, 237, 0.41) 47.4%, #5E63C8 82.29%);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+}
+
+.logo{
+    position: absolute;
+    width: 100px;
+    height: 60px;
+    left: 100px;
+    top: 10px;
+    
+    background: url(logo_test.png);
+    mix-blend-mode: normal;
+    border-radius: 2px;
+
+
+}
+
+body{
+    background: #E5E5E5;
+}
+
+.barra{
+    position: absolute;
+width: 892px;
+height: 47px;
+left: 448px;
+top: 20px;
+
+background: #FFFFFF;
+}
+
+.buscar
+{
+
+    position: absolute;
+
+    width: 892px;
+    height: 47px;
+    left: 448px;
+    top: 20px;
+
+
+font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+
+color: #D5C9C9;
+background: white;
+}
+
+.busca{
+    position: absolute;
+    width: 56px;
+    height: 47px;
+    left: 1284px;
+    top: 20px;
+    
+    background: #E5E5E5;
+    border: 1px solid #C6C2C2;
+    box-sizing: border-box;
+
+    background: url(ic_Search@2x.png);
+}
+
+.favv{
+    position: absolute;
+    width: 44px;
+    height: 40px;
+    left: 1375px;
+    top: 20px;
+    
+    background: url(heart.png);
+}
+
+
+.card{
+    position: absolute;
+    width: 1240px;
+    height: 221px;
+    left: 100px;
+    top: 159px;
+    
+    background: #FFFFFF;
+    border: 1px solid rgba(0, 0, 0, 0.15);
+    box-sizing: border-box;
+}
+
+
+.imagen{
+    position: absolute;
+width: 180px;
+height: 180px;
+left: 144px;
+top: 30px;
+
+background: url(D_916062-MLA43654417337_102020-I.jpg);
+border-radius: 15px;
+}
+
+.precio
+{
+    position: absolute;
+width: 150px;
+height: 35px;
+left: 448px;
+top: 30px;
+
+font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+
+color: #000000;
+}
+
+.nombre{
+    position: absolute;
+width: 500px;
+height: 35px;
+left: 448px;
+top: 112px;
+
+font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+
+color: #000000;
+
+}
+
+
+.lugar{
+position: absolute;
+width: 150px;
+height: 35px;
+left: 1111px;
+top: 30px;
+
+font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 17px;
+
+color: #000000;
+}
+
+.icono{
+    position: absolute;
+width: 20px;
+height: 20px;
+left: 598px;
+top: 34px;
+
+background: url(carrito.png);
+}
+
+
+.txtlink
+{
+    position: absolute;
+width: 520px;
+height: 32px;
+left: 99px;
+top: 114px;
+
+font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+text-align: justify;
+
+color: rgba(0, 0, 0, 0.67);
+
+}
+
+.card2
+{
+    position: absolute;
+width: 1240px;
+height: 852px;
+left: 100px;
+top: 158px;
+
+background: #FFFFFF;
+border: 1px solid rgba(0, 0, 0, 0.15);
+box-sizing: border-box;
+}
+
+.imgdetalle
+{
+    position: absolute;
+width: 563px;
+height: 520px;
+left: 150px;
+top: 212px;
+
+background-color: aqua;
+border-radius: 15px;
+}
+
+.usado
+{
+    position: absolute;
+width: 312px;
+height: 35px;
+left: 978px;
+top: 212px;
+
+font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 17px;
+
+color: #000000;
+
+}
+
+.nombredetalle
+{
+    position: absolute;
+width: 312px;
+height: 31px;
+left: 978px;
+top: 278px;
+
+font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+
+color: #000000;
+
+}
+
+
+.preciodetalle
+{
+    position: absolute;
+width: 312px;
+height: 33px;
+left: 978px;
+top: 335px;
+
+font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+
+color: #000000;
+}
+
+.buy
+{
+    position: absolute;
+    width: 312px;
+    height: 51px;
+    left: 978px;
+    top: 416px;
+    
+    background: #C968CB;
+    border-radius: 20px;
+
+ 
+}
+
+.buytxt
+{
+position: absolute;
+width: 236px;
+height: 31px;
+left: 1013px;
+top: 423px;
+
+font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+text-align: center;
+
+color: #FFFFFF;
+
+}
+
+.fav
+{
+    position: absolute;
+    width: 312px;
+    height: 51px;
+    left: 978px;
+    top: 485px;
+    
+    background: #8C86D7;
+    border-radius: 20px;
+}
+.favtxt
+{
+    position: absolute;
+width: 236px;
+height: 31px;
+left: 1013px;
+top: 495px;
+
+font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+text-align: center;
+
+color: #FFFFFF;
+
+}
+
+
+
+.descdetalle
+{
+    position: absolute;
+width: 312px;
+height: 31px;
+left: 150px;
+top: 755px;
+
+font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 28px;
+line-height: 34px;
+
+color
+: #000000;
+}
+
+
+.descdescdetalle
+{
+    position: absolute;
+width: 828px;
+height: 170px;
+left: 150px;
+top: 809px;
+
+font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 17px;
+text-align: justify;
+
+color: #B8ACAC;
+
+}
+
+
+.tit{
+    position: absolute;
+width: 312px;
+height: 31px;
+left: 100px;
+top: 104px;
+
+font-family: Lato;
+font-style: normal;
+font-weight: bold;
+font-size: 28px;
+line-height: 34px;
+
+color: #000000;
+}
+
+
+.elim{
+    position: absolute;
+    width: 200px;
+    height: 51px;
+    left: 200px;
+    top: 178px;
+    
+    background: #ECE9E9;
+    border-radius: 20px;
+}
+
+.elimtxt{
+    position: absolute;
+    width: 236px;
+    height: 30px;
+    left: 182px;
+    top: 192px;
+    
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    
+    color: #FFFFFF;
+    
+}
+
+
+.check
+{
+position: absolute;
+width: 20px;
+height: 20px;
+left: 140px;
+top: 193px;
+
+background: #C4C4C4;
+}
+
+.cardd
+{
+position: absolute;
+width: 1240px;
+height: 89px;
+left: 100px;
+top: 163px;
+
+background: #ffffff;
+border: 1px solid rgba(0, 0, 0, 0.15);
+box-sizing: border-box;
+}
+
+.carddd
+{
+    position: absolute;
+width: 1240px;
+height: 221px;
+left: 100px;
+top: 252px;
+
+background: #FFFFFF;
+border: 1px solid rgba(0, 0, 0, 0.15);
+box-sizing: border-box;
+}
+
+
+.checkcard
+{
+
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 40px;
+    top: 92px;
+    
+    background: #C4C4C4;
+}
+
+.ver{
+    position: absolute;
+    width: 200px;
+    height: 51px;
+    left: 984px;
+    top: 67px;
+    
+    background: #C968CB;
+    border-radius: 20px;
+}
+
+.vertxt{
+    position: absolute;
+width: 236px;
+height: 30px;
+left: 966px;
+top: 80px;
+
+font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+text-align: center;
+
+color: #FFFFFF;
+}
